@@ -3,7 +3,7 @@ We introduce a suite of generative modelling techniques to efficiently navigate 
 
 
 # Getting started
-Example notebooks for model training and finetuning are available in
+Example notebooks for model training and fine tuning are available in
 # Contributors
 Mrityunjay Sharma, CSIR-CSIO, Chandigarh                  
 Sarabeshwar Balaji, Indian Institute of Science Education and Research Bhopal(IISERB), India
