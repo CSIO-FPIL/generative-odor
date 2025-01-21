@@ -7,5 +7,4 @@ Example notebooks for model training and fine tuning are available in
 # Contributors
 Mrityunjay Sharma, CSIR-CSIO, Chandigarh, India                  
 Sarabeshwar Balaji, Indian Institute of Science Education and Research Bhopal(IISERB), India
-
 Ritesh Kumar, CSIR-CSIO, Chandigarh, India
