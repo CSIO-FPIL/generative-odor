@@ -1,0 +1,60 @@
+Descriptor,Average Value
+QED,0.46
+logP,2.32
+Molecular Weight,147.61
+Number of Heavy Atoms,10.79
+TPSA,0.00
+Rotatable Bonds,3.57
+H-bond Donors,0.00
+H-bond Acceptors,0.00
+Ring Count,0.86
+Formal Charge,0.36
+Fraction of Sp2 Hybridized Atoms,0.71
+Number of Aromatic Rings,0.00
+Hydrophobic Surface Area,0.00
+Molar Refractivity,53.33
+Rotatable Bond Count,3.57
+Number of Heteroatoms,1.57
+Ipc,1536.33
+Kappa1,9.33
+Kappa2,5.12
+Kappa3,3.64
+LabuteASA,71.31
+PEOE_VSA1,0.21
+PEOE_VSA2,0.00
+PEOE_VSA3,0.00
+SMR_VSA1,0.21
+SMR_VSA2,0.00
+SMR_VSA3,0.00
+SlogP_VSA1,0.00
+SlogP_VSA2,11.29
+SlogP_VSA3,0.00
+FCFP4 Count,8.43
+ECFP4 Count,17.07
+Num Bridgehead Atoms,0.29
+Num Spiro Atoms,0.00
+Num Macrocycles,0.00
+Fsp3,0.71
+Ring Atom Count,4.43
+Ring Bond Count,4.57
+Aliphatic Ring Count,0.86
+Aliphatic Heteroatom Count,0.36
+Aromatic Heteroatom Count,0.00
+Saturated Ring Count,0.86
+Aromatic Ring Count,0.00
+Heteroatom Count,1.57
+Hetero-Aliphatic Ring Count,0.07
+Hetero-Aromatic Ring Count,0.00
+Hetero-Saturated Ring Count,0.07
+Largest Ring Size,3.79
+Mannhold LogP,2.32
+Wildman-Crippen MR,53.33
+Average Molecular Weight,12.59
+Exact Molecular Weight,147.81
+Polar Surface Area,0.00
+Atom Pair Fingerprint Count,22.64
+Natural Product Likeness Score,0.46
+Generated Valid SMILES (Fragrant Count),10
+Generated Valid SMILES (Percentage Fragrant),71.43%
+Generated Valid SMILES (Percentage Unique Fragrant),71.43%
+Generated Valid SMILES (Novelty Percentage),100.00%
