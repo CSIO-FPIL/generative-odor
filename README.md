@@ -28,5 +28,5 @@ All the figures used in the paper are available in the <code>figures</code> fold
 # Contributors
 **Mrityunjay Sharma**, CSIR-CSIO, Chandigarh, India                
 **Sarabeshwar Balaji**, Indian Institute of Science Education and Research Bhopal(IISERB), India <br>
-**Pinaki Saha**, University of Hertfordshire, UH Biocomputation Group,United Kingdom <br>
+**Pinaki Saha**, University of Hertfordshire, UH Biocomputation Group, United Kingdom <br>
 **Ritesh Kumar**, CSIR-CSIO, Chandigarh, India
