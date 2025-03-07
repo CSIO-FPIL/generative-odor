@@ -11,7 +11,7 @@ Creating environment:
 # Data
 The folder <code>data</code> contains the results of different statistical tests on the distribution of generated molecules, organized by model in sub-folders named <code>ARGA</code>, <code>ARGVA</code>, <code>Diffusion</code>, <code>GAE</code>, <code>Transformer</code>, and <code>VGAE</code>. Each of these model folders includes <code>GDB Criteria</code>, <code>KS_test</code>, and <code>rule of three</code>.
 
-# Datasets for training
+# Dataset for Training
 The folder named <code>curated dataset</code> in <code>data</code> that holds the training data for the models, which is available in two formats: <code>curated_GS_LF_merged_cleaned.csv</code> (CSV) and <code>cleaned_frag_pyg_dataset.pth</code> (PyTorch).
 
 The above mentioned PyTorch data is created using: <code>Pyg_data_creator_for_cleaned.ipynb</code>.
