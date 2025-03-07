@@ -6,7 +6,7 @@
 # Getting started
 Example notebooks for model training and fine tuning are available in [Generative model runs](https://github.com/CSIO-FPIL/generative-odor/tree/main/runs)
 # Contributors
-Mrityunjay Sharma, CSIR-CSIO, Chandigarh, India                
-Sarabeshwar Balaji, Indian Institute of Science Education and Research Bhopal(IISERB), India <br>
-Pinaki Saha, University of Hertfordshire, UH Biocomputation Group,United Kingdom <br>
-Ritesh Kumar, CSIR-CSIO, Chandigarh, India
+**Mrityunjay Sharma**, CSIR-CSIO, Chandigarh, India                
+**Sarabeshwar Balaji**, Indian Institute of Science Education and Research Bhopal(IISERB), India <br>
+**Pinaki Saha**, University of Hertfordshire, UH Biocomputation Group,United Kingdom <br>
+**Ritesh Kumar**, CSIR-CSIO, Chandigarh, India
