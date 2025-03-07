@@ -2,7 +2,7 @@
 ![Research Paper Overview (7)](https://github.com/user-attachments/assets/daf1ae2d-228d-4223-951f-0176de78d419)
 <div align="justify"> We introduce a suite of generative modelling techniques to efficiently navigate and explore the complex landscapes of odor and the broader chemical space. The whole process involves four key stages: molecule generation, stringent sanitization checks for molecular validity, fragrance likeliness screening and odor prediction of the generated molecules. </div>
 
-Link to [paper](https://arxiv.org/abs/2501.18777).
+The website developed for this work is available at [Exploring Fragrance Space using Generative Models](https://kumars8494.github.io/Exploring_Fragrance_Space_with_Generative_model/)
 
 # Getting started
 Creating environment:
