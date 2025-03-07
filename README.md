@@ -23,7 +23,7 @@ Example notebooks for model training and fine tuning are available in [models](h
 Unlike traditional approaches, we not only generate molecules but also predict the odor likeliness and classify probable odor labels. We show that odor likeliness is a function of physicochemical features. Additionally, we identify the most relevant features to construct an odor likeliness equation and leverage SHAP (SHapley Additive exPlanations) to demonstrate the interpretability of the work. 
 
 # Figures
-All the figures used in the paper are available in teh [figures](https://github.com/CSIO-FPIL/generative-odor/tree/main/figures) folder. 
+All the figures used in the paper are available in the [figures](https://github.com/CSIO-FPIL/generative-odor/tree/main/figures) folder. 
 
 # Contributors
 **Mrityunjay Sharma**, CSIR-CSIO, Chandigarh, India                
