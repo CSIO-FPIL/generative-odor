@@ -6,7 +6,7 @@ Link to [paper](https://arxiv.org/abs/2501.18777).
 
 # Getting started
 Creating environment:
-<br><code>conda create --name my_env --file environment.txt</code></br>
+<br><code>conda create --name my_env --file requirements.txt</code></br>
 
 # Data
 The folder <code>data</code> contains the results of different statistical tests on the distribution of generated molecules, organized by model in sub-folders named <code>ARGA</code>, <code>ARGVA</code>, <code>Diffusion</code>, <code>GAE</code>, <code>Transformer</code>, and <code>VGAE</code>. Each of these model folders includes <code>GDB Criteria</code>, <code>KS_test</code>, and <code>rule of three</code>.
