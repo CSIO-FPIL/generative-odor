@@ -3,7 +3,7 @@
 <div align="justify"> We introduce a suite of generative modelling techniques to efficiently navigate and explore the complex landscapes of odor and the broader chemical space. The whole process involves four key stages: molecule generation, stringent sanitization checks for molecular validity, fragrance likeliness screening and odor prediction of the generated molecules. </div>
 
 <br> The website developed for this work is available at [Exploring Fragrance Space using Generative Models](https://kumars8494.github.io/Exploring_Fragrance_Space_with_Generative_model/)</br>
-
+<br> The paper is available on arXiv at [Navigating the Fragrance space Via Graph Generative Models And Predicting Odors](https://arxiv.org/pdf/2501.18777)
 # Getting started
 Creating environment:
 <br><code>conda create --name my_env --file requirements.txt</code></br>
@@ -29,4 +29,19 @@ All the figures used in the paper are available in the [figures](https://github.
 **Mrityunjay Sharma**, CSIR-CSIO, Chandigarh, India                
 **Sarabeshwar Balaji**, Indian Institute of Science Education and Research Bhopal(IISERB), India <br>
 **Pinaki Saha**, University of Hertfordshire, UH Biocomputation Group, United Kingdom <br>
-**Ritesh Kumar**, CSIR-CSIO, Chandigarh, India
+**Ritesh Kumar**, CSIR-CSIO, Chandigarh, India<br>
+
+# Citing This Work
+To cite this work, please use this bibtex entry:<br>
+
+
+@misc{sharma2025navigatingfragrancespacegraph, <br>
+      title={Navigating the Fragrance space Via Graph Generative Models And Predicting Odors},  <br>
+      author={Mrityunjay Sharma and Sarabeshwar Balaji and Pinaki Saha and Ritesh Kumar}, <br>
+      year={2025}, <br>
+      eprint={2501.18777}, <br>
+      archivePrefix={arXiv}, <br>
+      primaryClass={cs.LG}, <br>
+      url={https://arxiv.org/abs/2501.18777},  <br>
+}
+
