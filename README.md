@@ -2,8 +2,8 @@
 ![Research Paper Overview (7)](https://github.com/user-attachments/assets/daf1ae2d-228d-4223-951f-0176de78d419)
 <div align="justify"> We introduce a suite of generative modelling techniques to efficiently navigate and explore the complex landscapes of odor and the broader chemical space. The whole process involves four key stages: molecule generation, stringent sanitization checks for molecular validity, fragrance likeliness screening and odor prediction of the generated molecules. </div>
 
-<br> The website developed for this work is available at [Exploring Fragrance Space using Generative Models](https://kumars8494.github.io/Exploring_Fragrance_Space_with_Generative_model/)</br>
-<br> The paper is available on arXiv at [Navigating the Fragrance space Via Graph Generative Models And Predicting Odors](https://arxiv.org/pdf/2501.18777)
+<br> The website developed for this work is available at [Exploring Fragrance Space using Generative Models](https://kumars8494.github.io/Exploring_Fragrance_Space_with_Generative_model/). </br>
+<br> The paper is available on arXiv at [Navigating the Fragrance space Via Graph Generative Models And Predicting Odors](https://arxiv.org/pdf/2501.18777). 
 # Getting started
 Creating environment:
 <br><code>conda create --name my_env --file requirements.txt</code></br>
