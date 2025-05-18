@@ -35,13 +35,11 @@ All the figures used in the paper are available in the [figures](https://github.
 To cite this work, please use this bibtex entry:<br>
 
 ```bash
-@misc{sharma2025navigatingfragrancespacegraph,
-      title={Navigating the Fragrance space Via Graph Generative Models And Predicting Odors},
-      author={Mrityunjay Sharma and Sarabeshwar Balaji and Pinaki Saha and Ritesh Kumar}, 
-      year={2025}, 
-      eprint={2501.18777},
-      archivePrefix={arXiv}, 
-      primaryClass={cs.LG}, 
-      url={https://arxiv.org/abs/2501.18777},  
+@article{sharma2025navigating,
+  title={Navigating the Fragrance Space Using Graph Generative Models and Predicting Odors},
+  author={Sharma, Mrityunjay and Balaji, Sarabeshwar and Saha, Pinaki and Kumar, Ritesh},
+  journal={Journal of Chemical Information and Modeling},
+  year={2025},
+  publisher={ACS Publications}
 }
 ```
